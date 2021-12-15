@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anthony
+- 👀 I’m interested in C++ and Python development
+- 🌱 I’m currently learning Git, TensorFlow and Open Source Development!
+- 💞️ I’m looking to collaborate on any and all interesting projects
